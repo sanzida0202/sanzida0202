@@ -1,3 +1,0 @@
-# Ignore raw data directory
-nsclc-prognostic-model/data/*
-!nsclc-prognostic-model/data/.gitkeep
