@@ -1,0 +1,13 @@
+sample_id,MLH1,MSH2,MSH6,PMS2
+CRC001,lost,retained,retained,lost
+CRC002,retained,lost,retained,retained
+CRC003,retained,retained,retained,retained
+CRC004,retained,retained,retained,lost
+CRC005,lost,retained,retained,lost
+CRC006,retained,retained,retained,retained
+CRC007,retained,retained,lost,retained
+CRC008,retained,retained,retained,retained
+CRC009,retained,retained,retained,retained
+CRC010,lost,retained,retained,lost
+CRC011,lost,retained,retained,lost
+CRC012,retained,retained,retained,retained

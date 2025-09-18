@@ -1,0 +1,4 @@
+pandas>=1.5
+statsmodels>=0.13
+matplotlib>=3.5
+numpy>=1.23
